@@ -1,0 +1,6 @@
+npm install firebase angularfire2 --save
+
+ionic g page signup
+ionic g page signin
+ionic g page resetpassword
+ionic g service auth-service
